@@ -10,7 +10,7 @@
 
 ## Installation
 
-    $ npm install @lifelynl/migrate
+    $ npm install migrate@git://github.com/lifelynl/node-migrate.git
 
 ## Usage
 
