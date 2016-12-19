@@ -2,9 +2,15 @@
 
   Abstract migration framework for node
 
+## Differences from tj/node-migrate
+
+- State file abstraction (save and load hooks) by @gustavnikolaj
+- Add try-catch to be able to lock migrations when a migration throws an exception
+- Throw an error when the state has a higher position than the amount of available migrations
+
 ## Installation
 
-    $ npm install migrate
+    $ npm install @lifelynl/migrate
 
 ## Usage
 
