@@ -1,6 +1,6 @@
 {
-  "name": "@gustavnikolaj/migrate",
-  "version": "1.0.0",
+  "name": "@lifelynl/migrate",
+  "version": "1.0.1",
   "description": "Abstract migration framework for node",
   "keywords": [
     "migrate",
