@@ -1,6 +1,6 @@
 {
   "name": "@lifelynl/migrate",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Abstract migration framework for node",
   "keywords": [
     "migrate",
